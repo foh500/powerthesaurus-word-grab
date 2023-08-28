@@ -1,6 +1,7 @@
 # powerthesaurus-word-grab
 grabs words from new searches on powerthesaurus, sends sentiment analysis results via OSC
 
+Run in a Jupyter notebook
 https://github.com/foh500/powerthesaurus-word-grab/blob/main/power%20thesaurus%20text%20grab.ipynb
 
 Uses textblob, selenium, pythonosc
